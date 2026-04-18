@@ -5,10 +5,6 @@
 
 I am a graduating high school student planning to study physics at [?] next year. 
 
-I build tools at the intersection of mathematics, physics, and software. Currently finishing secondary school in Budapest while developing full-stack applications solo — from database schema to payment infrastructure to product design.
-
-My background is competitive: olympiad mathematics, national-qualifier astronomy, satellite engineering competitions. I think in problems and solutions.
-
 ---
 
 ## Projects
@@ -34,6 +30,8 @@ Interactive 3D molecule visualisation [tool](https://github.com/bendeguz06/Py3Mo
 
 ## Languages
  English (fluent) · German (fluent) · French (elementary) · Hungarian (native)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendeguz06)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

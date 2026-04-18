@@ -30,9 +30,7 @@ Interactive 3D molecule visualisation [tool](https://github.com/bendeguz06/Py3Mo
 
 ## Languages
  English (fluent) · German (fluent) · French (elementary) · Hungarian (native)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bendeguz06)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 ---
 
 ## Contact
